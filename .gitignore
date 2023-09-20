@@ -1,0 +1,11 @@
+# Ignore IDE files
+.idea/
+*.pyc
+
+# Ignore file related to DB Credentials
+db.conf
+
+# Ignore migrations file
+**/migrations/**
+
+.env
